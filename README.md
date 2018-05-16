@@ -1,0 +1,2 @@
+# autopush
+push automation example
